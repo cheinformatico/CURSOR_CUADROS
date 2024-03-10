@@ -1,10 +1,12 @@
 # CURSOR_CUADROS
 Cursor animado con Cuadrados de colores
 
-# REDES SOCIALES y PAGINA
+# REDES SOCIALES
 <br>
 Instagram: @elcheinformatico
 <br>
 Facebook: Elcheinformatico
 <br>
+
+#PAGINA
 WebSite: http://elcheinformatico.byethost7.com/
