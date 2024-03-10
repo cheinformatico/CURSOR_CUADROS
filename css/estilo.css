@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: black;
+    overflow: hidden;
+}
+.c1 {
+    position: absolute;
+    width: 1%;
+    height: 2%;
+}
+.c2 {
+    position: absolute;
+    width: 2%;
+    height: 4%;
+    transition: .05s;
+}
+.c3 {
+    position: absolute;
+    width: 3%;
+    height: 6%;
+    transition: .1s;
+}
+.c4 {
+    position: absolute;
+    width: 4%;
+    height: 8%;
+    transition: .14s;
+}
