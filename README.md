@@ -2,7 +2,6 @@
 Cursor animado con Cuadrados de colores
 
 # REDES SOCIALES
-<br>
 Instagram: @elcheinformatico
 <br>
 Facebook: Elcheinformatico
